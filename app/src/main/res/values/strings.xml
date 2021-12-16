@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NoteApplication</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+    </string-array>
 </resources>
